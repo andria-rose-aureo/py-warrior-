@@ -6,4 +6,4 @@ for i in range (1,3):
     else:
          print("try again")
          num = int(input("Guess a number again -  "))
-print("Game Over! The number was 7")
+         print("Game Over! The number was 7")
