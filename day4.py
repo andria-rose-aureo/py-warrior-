@@ -1,5 +1,5 @@
 num = int(input("Guess a number between 1 and 10 -  "))
-for i in range (1,3):
+for i in range (1,4):
     if (num == 7):
          print("Congrats! You guessed it right 🎉")
          break
