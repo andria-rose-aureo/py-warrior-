@@ -3,7 +3,8 @@ for i in range (1,3):
     if (num == 7):
          print("Congrats! You guessed it right 🎉")
          break
-    else:
+    elif(i!=3):
          print("try again")
          num = int(input("Guess a number again -  "))
+else:
          print("Game Over! The number was 7")
