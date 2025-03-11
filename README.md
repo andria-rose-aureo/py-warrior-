@@ -1,6 +1,6 @@
 Project Oreo - 100 Days Challenge 💪🔥
 
-Welcome to Project Oreo 100 Days 🚀 – A self-discipline challenge where I dedicate 6 days a week to mastering Python Full Stack Development from zero to hero 💪.
+Welcome to Project Oreo 100 Days 🚀 – A self-discipline challenge where I dedicate 7 days a week to mastering Python Full Stack Development from zero to hero 💪.
 
 
 🎯 What is Project Oreo?
@@ -10,9 +10,9 @@ Project Oreo is my personal coding journey that I started on February 28, 2025 t
 
 📌 How This Challenge Works
 
-6 Days a Week Commitment (Monday to Saturday)
-
-Daily Tasks will be uploaded as dayX.py
+Week Commitment :
+ 
+Daily Tasks will be uploaded as dayX.py and weekly one project uploaded as weekX.py
 
 Each day covers both theoretical and practical concepts
 
