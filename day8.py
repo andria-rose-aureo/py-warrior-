@@ -1,4 +1,4 @@
-#come other prgms to excute one :) LIST QUESTIONS
+#comment other prgms to excute one :) LIST QUESTIONS
 
 #Sum of Elements: Calculate the sum of all numbers in a list
 my_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
