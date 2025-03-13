@@ -1,4 +1,4 @@
-#come other prgms to excute one :) TUPLE QUESTIONS 
+#comment other prgms to excute one :) TUPLE QUESTIONS 
 
 #Unpack a Tuple: Unpack elements of a tuple into variables.
 my_tuple = (1,2,3)
